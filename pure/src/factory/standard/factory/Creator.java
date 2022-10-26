@@ -7,7 +7,7 @@ import factory.standard.servcie.impl.ProductB;
 /**
  * @author hj.luo
  * @date 2022-10-25 15:44
- * @descripitions
+ * @descripitions 工厂管理工具
  */
 public class Creator {
     public static Product getFactory(Integer type){

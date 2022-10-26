@@ -5,7 +5,7 @@ import factory.standard.servcie.Product;
 /**
  * @author hj.luo
  * @date 2022-10-25 15:25
- * @descripitions
+ * @descripitions 产品B
  */
 public class ProductB implements Product {
     @Override
