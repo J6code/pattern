@@ -1,9 +1,9 @@
-package adapter.client;
+package adapter.demo1.client;
 
-import adapter.service.impl.ProductA;
-import adapter.service.impl.ProductAAdapterProductB;
-import adapter.service.impl.ProductB;
-import adapter.service.impl.ProductBManage;
+import adapter.demo1.service.impl.ProductA;
+import adapter.demo1.service.impl.ProductAAdapterProductB;
+import adapter.demo1.service.impl.ProductB;
+import adapter.demo1.service.impl.ProductBManage;
 
 /**
  * @author hj.luo

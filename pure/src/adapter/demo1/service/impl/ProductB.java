@@ -1,4 +1,4 @@
-package adapter.service.impl;
+package adapter.demo1.service.impl;
 
 /**
  * @author hj.luo
